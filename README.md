@@ -1,1 +1,1 @@
-# wixconference1
+# WIX Conference challenge 

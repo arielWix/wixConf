@@ -23,6 +23,7 @@
     "*.{js,ts,tsx}": "yoshi lint"
   },
   "dependencies": {
+    "@wix/ambassador-crash-course-products-scala-app": "^1.0.25",
     "@wix/bootstrap-hot-loader": "^5.0.0",
     "@wix/wix-axios-config": "latest",
     "@wix/wix-bootstrap-greyhound": "latest",
