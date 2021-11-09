@@ -1,0 +1,11 @@
+{
+    "appName": "wixconference1",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "wixconference1"
+    ]
+  }
