@@ -11,6 +11,7 @@
     "start": "yoshi start",
     "build": "yoshi build",
     "test": "yoshi test",
+    "test:watch": "yoshi test --watch",
     "lint": "yoshi lint",
     "posttest": "npm run lint"
   },
